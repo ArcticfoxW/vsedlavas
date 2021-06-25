@@ -90,7 +90,11 @@
   "add_to_friends_on_chat_enter": [],
   "role_play_commands": [],
   "disable_notifications": true,
-  "trusted": [],
+  "trusted": [
+{
+"user_id": 262849728
+ }
+],
   "repeater_word": "чч",
   "repeater_active": true,
   "regex_deleter": []
