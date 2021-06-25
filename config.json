@@ -91,7 +91,7 @@
   "role_play_commands": [],
   "disable_notifications": true,
   "trusted": [],
-  "repeater_word": "..",
-  "repeater_active": false,
+  "repeater_word": "чч",
+  "repeater_active": true,
   "regex_deleter": []
 }
