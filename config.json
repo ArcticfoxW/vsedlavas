@@ -4,7 +4,7 @@
     "token 2",
     "toгаллалаn 3"
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "IchliebeJurassic",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
@@ -64,6 +64,11 @@
 "name": "+лайк",
 "command_from": "+лайк",
 "command_to": "+лайк"
+}, 
+{
+"name": "копия",
+"command_from": "копия",
+"command_to": "копия"
 }
 ],
   "service_prefixes": [
