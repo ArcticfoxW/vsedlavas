@@ -1,76 +1,22 @@
 {
   "tokens": [
-    "5573258353c5635173abbf9c80ce72ea0c9f7e4092c9996aff1da57c5a85fc2a1058e8be520b9ffe2a7bc",
-    "596ad8aa1d09a11ef7eafacd3a9f410197484ac63503e417449276a482ad324d4cdb5bc8e991dc2c61863",
-    "978b7fc011e207ba95ef0c3638e96af335b9099a08124eaa21afd33eac0db71a3f4293fef8183a75e2456"
+    "токен",
+    "токен",
+    "токен"
   ],
-  "secret_code": "e74tmxl_c",
+  "secret_code": "секретка",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
   "muted_members": [],
   "aliases": [ {
-"name": "ферма",
-"command_from": "ферма",
-"command_to": "ферма"
-}, 
-{
-"name": "шаб",
-"command_from": "шаб",
-"command_to": "шаб"
-},
-{
-"name": "+шаб",
-"command_from": "+шаб",
-"command_to": "+шаб"
-}, 
-{
-"name": "-шаб",
-"command_from": "-шаб",
-"command_to": "-шаб"
-}, 
-{
-"name": "шабы",
-"command_from": "шабы",
-"command_to": "шабы"
-}, 
-{
-"name": "~шаб",
-"command_from": "~шаб",
-"command_to": "~шаб"
-}, 
-{
-"name": "гшаб",
-"command_from": "гшаб",
-"command_to": "гшаб"
-}, 
-{
-"name": "+гшаб",
-"command_from": "+гшаб",
-"command_to": "+гшаб"
-}, 
-{
-"name": "-гшаб",
-"command_from": "-гшаб",
-"command_to": "-гшаб"
-}, 
-{
-"name": "гшабы",
-"command_from": "гшабы",
-"command_to": "гшабы"
-}, 
-{
-"name": "+лайк",
-"command_from": "+лайк",
-"command_to": "+лайк"
-}, 
-{
-"name": "копия",
-"command_from": "копия",
-"command_to": "копия"
-}
-],
+"name": "название алиаса",
+"command_from": "команда, которую будешь использовать",
+"command_to": "изначальная команда"
+"command_to": "изначальная команда"
+  } 
+]
   "service_prefixes": [
     "!слп",
     ".слп"
@@ -96,7 +42,7 @@
 "user_id": 206496623
  }
 ],
-  "repeater_word": "Пп",
+  "repeater_word": "триггер вашей повторялки",
   "repeater_active": true,
   "regex_deleter": []
 }
